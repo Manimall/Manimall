@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Max Chernenkov (@Manimall) - senior frontend dev. 
-- 👀 I’m interested in job which includes React, Typescript and Next.js as core technologies in project
+- 👀 I’m interested in job which includes React, Vue, Typescript and Next.js (Nuxt) as core technologies in project
 - 🌱 I’m currently learning Nest js
 - 💞️ I’m looking to collaborate on interesting international projects
 - 📫 How to reach me - via telegram - https://t.me/DreamOctober or [Send me an email](mailto:maks.chernenkovvv@gmail.com)
