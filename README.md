@@ -12,5 +12,3 @@
 💡 Now writing code isn't that important anymore — 🤖 neural networks can handle it. What truly matters are **ideas and implemented ideas!** 
 # 🚀🚀🚀
 # ✨✨✨
-
-Now I'm creating smth special (like https://t.me/mlb_predict_lab_bot in telegram), etc...
