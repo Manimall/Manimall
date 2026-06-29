@@ -20,10 +20,7 @@ repls - https://repl.it/@Manimall
 # 🚀🚀🚀
 
 ---
-
 <h2 align="center">🤝 Connect With Me</h2>
-
----
 
 <p align="center"><i>I'm always open to collaborating on interesting projects, discussing AI/ML innovations, and building impactful real-world applications. Let's connect!</i></p>
 
@@ -32,5 +29,3 @@ repls - https://repl.it/@Manimall
   <a href="https://github.com/Manimall"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:maks.chernenkovvv@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
-
----
