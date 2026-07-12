@@ -21,7 +21,7 @@ repls - https://repl.it/@Manimall
 
 ---
 
-**Creator of MLB Predict Lab ⚾** — a value-betting laboratory for MLB ([@mlb_predict_lab_bot](https://t.me/mlb_predict_lab_bot)): the model computes fair win probabilities (CatBoost + domain rules), compares them against bookmaker lines, and delivers signals to Telegram — from 🟢 value bets to 🎯 "confident winners" backed by streak context.
+**Creator and developer of MLB Predict Lab ⚾** — a value-betting laboratory for MLB ([@mlb_predict_lab_bot](https://t.me/mlb_predict_lab_bot)): the model computes fair win probabilities (CatBoost + domain rules), compares them against bookmaker lines, and delivers signals to Telegram — from 🟢 value bets to 🎯 "confident winners" backed by streak context.
 
 
 ---
