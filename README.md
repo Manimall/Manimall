@@ -1,37 +1,31 @@
-<del>
+# Hey, I'm Max 👋
 
-- 👋 Hi, I’m Max Chernenkov (@Manimall) - senior frontend dev. 
-- 👀 I’m interested in job which includes React, Vue, Typescript and Next.js (Nuxt) as core technologies in project
-- 🌱 I’m currently learning backend technologies: Golang, GORM, POSTGRESQL
-- 💞️ I’m looking to collaborate on interesting international projects
-- 📫 How to reach me - via telegram - https://t.me/DreamOctober or [Send me an email](mailto:maks.chernenkovvv@gmail.com)
-- 🙈 +-99% of my code is in closed companies'repo, but i write codesandboxes at https://codesandbox.io/ and some repls in https://replit.com/ almost every day)
+~~Senior frontend dev (React / Vue / TypeScript)~~ → **building my own AI-powered products, end to end.**
 
-</del>
-
-(for my students - 
-codepen - https://codepen.io/MAnimall48/
-sandbox - https://codesandbox.io/u/Manimall/sandboxes
-repls - https://repl.it/@Manimall
-разметка маркдаун - http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/
-)
-
-💡 Now writing code isn't that important anymore — 🤖 neural networks can handle it. What truly matters are **ideas and implemented ideas!** 
-# 🚀🚀🚀
+💡 Writing code isn't the bottleneck anymore — neural networks handle that. What matters now are **ideas — and ideas actually shipped.**
 
 ---
 
-**Creator and developer of MLB Predict Lab ⚾** — a value-betting laboratory for MLB ([@mlb_predict_lab_bot](https://t.me/mlb_predict_lab_bot)): the model computes fair win probabilities (CatBoost + domain rules), compares them against bookmaker lines, and delivers signals to Telegram — from 🟢 value bets to 🎯 "confident winners" backed by streak context.
+## ⚾ MLB Predict Lab — flagship project
 
+**Creator and developer of MLB Predict Lab** ([@mlb_predict_lab_bot](https://t.me/mlb_predict_lab_bot)) — a value-betting laboratory for MLB: the model computes fair win probabilities (CatBoost + domain rules), compares them against bookmaker lines, and delivers signals to Telegram — from 🟢 value bets to 🎯 "confident winners" backed by streak context.
+
+Point-in-time features (starting pitchers, bullpen fatigue, confirmed lineups) · paper-trading autopilot with hourly CLV capture · ROI/CLV/calibration tracker on PostgreSQL · one-push deploy to VPS.
+
+## 🧭 Background
+
+8+ years in frontend development, ex-senior dev at **BetBoom** (betting industry) and **AGC Soft** — which is exactly why my models know how bookmakers think. 😉
 
 ---
-<h2 align="center">🤝 Connect With Me</h2>
 
-<p align="center"><i>I'm always open to collaborating on interesting projects, discussing AI/ML innovations, and building impactful real-world applications. Let's connect!</i></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/max-chernenkov-077259233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Manimall"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://t.me/DreamOctober"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="mailto:maks.chernenkovvv@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
+
+## 🤝 Connect With Me
+
+
+*I'm always open to collaborating on interesting projects, discussing AI/ML innovations, and building impactful real-world applications. Let's connect!*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-chernenkov-077259233)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manimall)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DreamOctober)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maks.chernenkovvv@gmail.com)
