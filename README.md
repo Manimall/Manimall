@@ -8,7 +8,7 @@
 
 ## ⚾ MLB Predict Lab — flagship project
 
-**Creator and developer of MLB Predict Lab** ([@mlb_predict_lab_bot](https://t.me/mlb_predict_lab_bot)) — a value-betting laboratory for MLB: the model computes fair win probabilities (CatBoost + domain rules), compares them against bookmaker lines, and delivers signals to Telegram — from 🟢 value bets to 🎯 "confident winners" backed by streak context.
+**Creator and developer of MLB Predict Lab** ([@mlb_predict_lab_bot](https://telegram.me/mlb_predict_lab_bot)) — a value-betting laboratory for MLB: the model computes fair win probabilities (CatBoost + domain rules), compares them against bookmaker lines, and delivers signals to Telegram — from 🟢 value bets to 🎯 "confident winners" backed by streak context.
 
 Point-in-time features (starting pitchers, bullpen fatigue, confirmed lineups) · paper-trading autopilot with hourly CLV capture · ROI/CLV/calibration tracker on PostgreSQL · one-push deploy to VPS.
 
